@@ -1,3 +1,13 @@
+# 👨‍💻 
+ ### Welcome to my GitHub profile!
+ - #### self intro
+ - #### intro to works
+ - #### overview of content in this profile
+ - #### links
+ - #### passion projects, gripes, goals, causes, articles, links
+ - #### closing statement
+ 
+
 > It’s not only fair but also essential for innovators to receive credit—even when their ideas are experimental or only partially public. In the open-source ecosystem and beyond, recognition fuels further creativity and collaboration. 
 > When someone shares a bold, original idea, that initial spark can inspire others to refine, build upon, or even completely transform it into something monumental. By pointing out those contributions—whether through documentation, commit messages, or community discussions—we help ensure that credit is duly given, encouraging risk-taking and innovation.
 >
