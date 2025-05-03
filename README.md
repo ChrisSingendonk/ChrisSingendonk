@@ -1,6 +1,11 @@
+Hi! Welcome to my GitHub stuff!
+
 In light of recent events regarding WebStatus.dev / Web Platform Status and Vaadin Web Components, I have compiled a manifest of what could benefit all Open Source contributors. For the case against WebStatus and Vaadin and any other related parties, see clientsidenetworkcontrol repo below this article. Thank you =)
 
->Unfortunately rather than address a matter with respect, or at all, when a consumer/user has a question, several parties have opted to get all content on CSingendonks >account hidden from the public. All without a single response, or attempt to even acknowledge anything was happening at all, by multiple representatives, contacted through >multiple channels of communication. All without a single response. The absence of any input from these individuals and organizations is unprofesional and does no favours >to any of the involved (or not involved, rather). 
+Unfortunately rather than address a matter with respect, or at all, when a consumer/user has a question, several parties have opted to get all content on CSingendonks account hidden from the public. All without a single response, or attempt to even acknowledge anything was happening at all, by multiple representatives, contacted through multiple channels of communication. All without a single response. The absence of any input from these individuals and organizations is unprofesional and does no favours to any of the involved (or not involved, rather). 
+
+*note: innovate and it's derivitives in this following context refer to all efforts to advance the subject of ones choosing, in this case that is open source stuff.
+however insignificant it may seem to you*
 
 > It’s not only fair but also essential for innovators to receive credit—even when their ideas are experimental or only partially public. In the open-source ecosystem and beyond, recognition fuels further creativity and collaboration. 
 > When someone shares a bold, original idea, that initial spark can inspire others to refine, build upon, or even completely transform it into something monumental. By pointing out those contributions—whether through documentation, commit messages, or community discussions—we help ensure that credit is duly given, encouraging risk-taking and innovation.
