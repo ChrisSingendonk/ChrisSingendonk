@@ -1,8 +1,19 @@
-Hi! Welcome to my GitHub stuff!
+##### Hi! Welcome to my GitHub stuff!
 
-In light of recent events regarding WebStatus.dev / Web Platform Status and Vaadin Web Components, I have compiled a manifest of what could benefit all Open Source contributors. For the case against WebStatus and Vaadin and any other related parties, see clientsidenetworkcontrol repo below this article. Thank you =)
+  Here you can find the ClientsideNetworkControl project repo with zipped snapshots of the repo of the same name and its relatives. There is **zero need for bundling or building** in fact most of those things remove and break critical infrastructure at the core of the projects. 
+  **Do not remove any modules or add any dependency-reliant code. This will break it**. 
+- Setup of the tools can be as simple as literally one line of code. There is no need for imports, requires, dependency checks, log stripping etc..
+ Security and / or sanity checks and minification work* **only if they do not mess with the code content** (*including functional dev-looking code and removing doc comment lines/blocks/attributions and separating the script modules*). 
+*The goal is ease of use for users, and inline security, error checking, handling of fallbacks, without requiring third party bloating code or extra code that is not utiilized within the program itself.*
 
-Unfortunately rather than address a matter with respect, or at all, when a consumer/user has a question, several parties have opted to get all content on CSingendonks account hidden from the public. All without a single response, or attempt to even acknowledge anything was happening at all, by multiple representatives, contacted through multiple channels of communication. All without a single response. The absence of any input from these individuals and organizations is unprofesional and does no favours to any of the involved (or not involved, rather). 
+  *These things all compile into a no-nonsense, no overhead, modifiable utility** for devs to make a better user experience for users and devs alike. When everything is independent, and accessable to everything else, but none rely on any others, there is no need to worry about bundling and extensive test code. The test is built in and even if you screwed things up, you know exactly what and where, and it wont break the ux, *other than the component itself not being available*.
+
+ This is done with structured, error-aware, and failure-prepared code patterns. 
+  
+>  **Write it like it's going to break, not like it won't.**
+
+
+
 
 *note: innovate and it's derivitives in this following context refer to all efforts to advance the subject of ones choosing, in this case that is open source stuff.
 however insignificant it may seem to you*
